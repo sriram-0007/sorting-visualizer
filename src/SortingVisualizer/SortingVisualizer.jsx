@@ -98,12 +98,15 @@ export default class SortingVisualizer extends React.Component {
                         </div>
                         <div class="seperator-1"></div>
                         <div className="slider">
-                            <button onClick={() => this.resetArray()}>Change Array Size & Sorting Speed</button>
-
-                        </div>
-                        <div className="sliderOption">
+                            <div>
+                            <div style={{color:"white"}}>Change Array Size & Sorting Speed</div>
+                            </div>
+                            
+                            <div className="sliderOption">
                             <input type="range" min="0" max="100" step="10" />
+                            </div>
                         </div>
+                        
 
                         <div class="seperator-2"></div>
                         <div className="Sorting-buttons">

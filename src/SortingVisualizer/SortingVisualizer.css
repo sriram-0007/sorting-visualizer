@@ -30,6 +30,7 @@ body{
 }
 .header{
     display: flex;
+    justify-content: center;
     background-color:#34495e;
 }
 .btn{
@@ -42,9 +43,10 @@ body{
     
 }
 
+
 .Sorting-buttons{
     display:flex;
-    flex:3;
+    flex:1;
     margin:0 5em;
     gap:1em;
 }
@@ -53,12 +55,8 @@ body{
     margin:0 6em;
 }
 .slider{
-    flex:3;
+    flex:1;
     margin:0 1em;
-}
-.sliderOption{
-    position:relative;
-    left:-150px;
 }
 .seperator-1{
     position: relative;
@@ -76,3 +74,5 @@ body{
     background-color: black;
     margin: 0;
 }
+
+
