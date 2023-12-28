@@ -28,6 +28,9 @@ body{
     background-color:rgb(66,134,244,0.8);
     margin: 0 0.5px;
 }
+.header{
+    display: flex;
+}
 .btn{
     position:relative;
     height:100px;
