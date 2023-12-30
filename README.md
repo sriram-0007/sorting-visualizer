@@ -1,3 +1,1 @@
-```Html
-<p>To view the project click here <a>https://sriram-0007.github.io/sorting-visualizer/</a></p>
-```
+To view the Project Click here-->https://sriram-0007.github.io/sorting-visualizer/
